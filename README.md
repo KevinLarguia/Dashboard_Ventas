@@ -7,16 +7,20 @@ V3 DashboardBI es un reporte de ventas en Power BI con esquema estrella (6 dimen
 ## 📸 Capturas
 
 ### Overview
-![Overview](overview.png)
+<img width="1287" height="726" alt="image" src="https://github.com/user-attachments/assets/936c6f8d-a71b-4864-8f15-e560924a2bb6" />
+
 
 ### Detalle de Ventas
-![Detalle de Ventas](detalle.png)
+<img width="1285" height="721" alt="image" src="https://github.com/user-attachments/assets/382c868d-8df2-4208-9efd-1745b1057356" />
+
 
 ### Vista Mobile — Overview
-![Mobile Overview](mobile_overview.png)
+<img width="423" height="734" alt="image" src="https://github.com/user-attachments/assets/c227ba56-51dd-40ba-a6b0-b1fed9ce2e9d" />
+
 
 ### Vista Mobile — Detalle de Ventas
-![Mobile Detalle](mobile_detalle.png)
+<img width="422" height="732" alt="image" src="https://github.com/user-attachments/assets/9153f8b5-3fe4-42ff-8356-f01ba3fafdc2" />
+
 
 ---
 
